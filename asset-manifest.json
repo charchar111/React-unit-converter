@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cra3/static/css/main.0223ad92.css",
+    "main.js": "/cra3/static/js/main.0d88f7e6.js",
+    "index.html": "/cra3/index.html",
+    "main.0223ad92.css.map": "/cra3/static/css/main.0223ad92.css.map",
+    "main.0d88f7e6.js.map": "/cra3/static/js/main.0d88f7e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0223ad92.css",
+    "static/js/main.0d88f7e6.js"
+  ]
+}
