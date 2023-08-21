@@ -1,3 +1,2 @@
-body {
-  background-color: tomato;
-}
+@import "./reset.css";
+@import "./App.css";
